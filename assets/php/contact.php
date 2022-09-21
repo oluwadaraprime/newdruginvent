@@ -13,8 +13,8 @@ require 'PHPMailer/src/SMTP.php';
 */
 
 // Recipients
-$fromEmail = 'from@example.com'; // Email address that will be in the from field of the message.
-$fromName = 'From Name'; // Name that will be in the from field of the message.
+$fromEmail = 'okunade0156@gmail.com'; // Email address that will be in the from field of the message.
+$fromName = 'Emmanuel Okunade'; // Name that will be in the from field of the message.
 $sendToEmail = 'to@example.com'; // Email address that will receive the message with the output of the form
 $sendToName = 'To Name'; // Name that will receive the message with the output of the form
 
